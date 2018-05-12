@@ -1,0 +1,25 @@
+_repo: Andy-at-Yale--13-Or-The-Great-Quadrangle-Mystery_18939
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stokes, Roy Eliot
+    gutenberg_agent_id: '8353'
+    url: http://www.gutenberg.org/2009/agents/8353
+description: ''
+gutenberg_issued: '2006-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Yale University -- Juvenile fiction'
+title: "Andy at Yale\r\nOr, The Great Quadrangle Mystery"
+url: http://www.gutenberg.org/ebooks/18939
