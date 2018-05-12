@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8353'
     url: http://www.gutenberg.org/2009/agents/8353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18939#Andy-at-Yale--13-Or-The-Great-Quadrangle-Mystery
 gutenberg_issued: '2006-07-30'
 gutenberg_type: Text
 identifiers:
